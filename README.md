@@ -1,4 +1,4 @@
-i# Rocket-Elevators-Java-Controller
+## Rocket-Elevators-Java-Controller
 
 This program use OOP to create its structure.  
  Battery -> Columns, Floor Requests Buttons
